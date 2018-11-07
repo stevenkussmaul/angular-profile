@@ -1,0 +1,27 @@
+body {
+    background-color: lightseagreen;
+}
+
+
+
+
+/* styling for profile page */
+
+.main-container {
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+
+}
+.profile-form {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+
+
+
+
+/* styling for profile-edit page */
